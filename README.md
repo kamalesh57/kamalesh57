@@ -126,140 +126,171 @@ n8n          ██████████████████████�
 
 ```
 
-
-
-## 💼 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-
-### 🔹 AI Legal Assistant
-<img src="https://via.placeholder.com/500x260/0f0c29/00F0FF?text=Project+Screenshot" width="100%"/>
-
-A RAG-powered legal document assistant for quick clause analysis.
-
-`LangChain` `Python` `Pinecone` `Next.js`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](#)
-[![Repository](https://img.shields.io/badge/Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔹 website foe ERODE HYDRALIKS COMPANY
-<img src="https://via.placeholder.com/500x260/0f0c29/00F0FF?text=Project+Screenshot" width="100%"/>
-
-A dashboard to visualize and control n8n automation workflows in real time.
-
-`n8n` `React` `Node.js` `MongoDB`
-
-[![Live Demo](https://erodehydralykis.web.app/)](#)
-[![Repository](https://img.shields.io/badge/Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-<td width="50%">
-
-
-
 ---
 
-## 🤖 AI Projects
+# 💼 Featured Projects
 
 <table>
 <tr>
-<td align="center" width="33%">💬<br/><b>AI Chatbot</b><br/><sub>Conversational assistant with memory</sub></td>
-<td align="center" width="33%">📚<br/><b>RAG Application</b><br/><sub>Context-aware document retrieval</sub></td>
-<td align="center" width="33%">📄<br/><b>Resume Analyzer</b><br/><sub>Smart resume scoring engine</sub></td>
-</tr>
-<tr>
-<td align="center" width="33%">⚖️<br/><b>AI Legal Assistant</b><br/><sub>Clause & contract analysis</sub></td>
-<td align="center" width="33%">⚙️<br/><b>Automation Dashboard</b><br/><sub>Visual workflow control center</sub></td>
-<td align="center" width="33%">🧠<br/><b>Multi-Agent AI</b><br/><sub>Collaborative task-solving agents</sub></td>
+
+<td width="50%" valign="top">
+
+## ⚖️ AI Legal Assistant
+
+<img src="https://via.placeholder.com/500x260/0f0c29/00F0FF?text=AI+Legal+Assistant" width="100%" />
+
+A RAG-powered AI legal assistant for contract analysis, legal document search, and clause explanation.
+
+**Tech Stack**
+
+`Python` `LangChain` `OpenAI` `Pinecone` `Next.js`
+
+<br>
+
+<a href="https://your-live-demo.com">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+<a href="https://github.com/kamalesh-t/ai-legal-assistant">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏭 Erode Hydraliks Website
+
+<img src="https://via.placeholder.com/500x260/0f0c29/00F0FF?text=Erode+Hydraliks" width="100%" />
+
+Corporate website developed for **Erode Hydraliks Company** with a modern responsive UI.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `Firebase`
+
+<br>
+
+<a href="https://erodehydralykis.web.app/">
+<img src="https://img.shields.io/badge/🌐_Visit_Website-00F0FF?style=for-the-badge&logo=firebase&logoColor=black"/>
+</a>
+
+<a href="https://github.com/kamalesh-t/erode-hydraliks">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## 🎯 Current Focus
+# 🤖 AI Projects
 
-<div align="center">
-
-| Status | Focus Area |
-|:---:|:---|
-| ✅ | Building AI Applications |
-| ✅ | Learning LLM Engineering |
-| ✅ | Open Source Contributions |
-| ✅ | Automation Workflows |
-
-</div>
+| Project | Description |
+|---------|-------------|
+| 💬 **AI Chatbot** | Conversational AI with memory |
+| 📚 **RAG Application** | Context-aware document retrieval |
+| 📄 **Resume Analyzer** | AI-powered resume scoring |
+| ⚖️ **AI Legal Assistant** | Contract & clause analysis |
+| ⚙️ **Automation Dashboard** | n8n workflow management |
+| 🧠 **Multi-Agent AI** | AI agents collaborating on tasks |
 
 ---
 
-## ⏱️ Coding Activity
+# 🎯 Current Focus
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kamalesh-t&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" width="70%"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/kamalesh-t/kamalesh-t/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+- ✅ Building AI Applications
+- ✅ Learning LLM Engineering
+- ✅ Developing n8n Automations
+- ✅ Open Source Contributions
 
 ---
 
-## 🌐 Connect With Me
+# ⏱️ Coding Activity
 
-<div align="center">
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamalesh-thirunavukkarasu-1150ab3b1)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](#)
+<img src="https://github-readme-stats.vercel.app/api?username=kamalesh-t&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
+<br><br>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kamalesh-t&theme=tokyonight&hide_border=true"/>
 
-## 👥 Community
+<br><br>
 
-<div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=kamalesh-t.kamalesh-t&color=00F0FF"/>
-<img src="https://img.shields.io/github/followers/kamalesh-t?style=for-the-badge&color=8A2BE2&labelColor=0f0c29"/>
-<img src="https://img.shields.io/github/stars/kamalesh-t?style=for-the-badge&color=00F0FF&labelColor=0f0c29"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalesh-t&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 💭 Random Dev Quote
+# 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
+
+<a href="https://www.linkedin.com/in/kamalesh-thirunavukkarasu-1150ab3b1">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://erodehydralykis.web.app/">
+<img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=firebase&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kamalesh-t&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/kamalesh-t?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💭 Random Dev Quote
+
+<p align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
+
+</p>
 
 ---
 
-## ☕ Support Me
+# ☕ Support Me
 
-<div align="center">
+<p align="center">
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](#)
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](#)
+<a href="https://www.buymeacoffee.com/">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
+</a>
 
-</div>
+<a href="https://github.com/sponsors">
+<img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+</a>
+
+</p>
 
 ---
+
+<p align="center">
+
+## ❤️ Thanks for visiting my profile
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</p>
 
 <div align="center">
 
