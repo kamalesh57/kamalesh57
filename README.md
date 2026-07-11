@@ -51,7 +51,7 @@ Build impactful AI products used by thousands of developers
 JavaScript, Python, n8n, Automation Workflows, Gen AI
 
 ### ⚡ Fun Fact
-I debug code faster with coffee ☕ in hand
+I debug code faster with Tea ☕ in hand
 
 </td>
 </tr>
@@ -225,7 +225,7 @@ A RAG-powered legal document assistant for quick clause analysis.
 
 <div align="center">
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](#)
+[![Buy Me a Tea](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](#)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](#)
 
 </div>
