@@ -128,7 +128,7 @@ C            ██████████████████░░░░�
 <td width="50%">
 
 ### 🔹 Erode Hydraulics
-<img src=""C:\Users\kamal\OneDrive\Pictures\Screenshots\Screenshot 2026-07-25 150159.png"" width="100%"/>
+<img src=""C:\Users\kamal\OneDrive\Pictures\Screenshots\Screenshot 2026-07-25 150159.png" width="100%"/>
 
 Business website for a hydraulic products company, built with a Node.js/Express backend and a Three.js + GSAP 3D immersive experience.
 
