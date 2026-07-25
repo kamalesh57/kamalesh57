@@ -72,7 +72,6 @@ I debug code faster with Tea ☕ in hand
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-
 ### Automation
 <p align="center">
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
@@ -84,7 +83,6 @@ I debug code faster with Tea ☕ in hand
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -102,10 +100,16 @@ I debug code faster with Tea ☕ in hand
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalesh-t&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=8A2BE2&point=00F0FF" width="48%"/>
 </div>
 
+<!-- 🐍 Animated contribution snake — generated nightly by the GitHub Action in
+     .github/workflows/snake.yml (see the second file). Swap in your username
+     once the workflow has run once and generated the SVGs. -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/kamalesh-t/kamalesh-t/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
-
 
 ## 📈 Skills Progress
 
@@ -123,37 +127,30 @@ C            ██████████████████░░░░�
 <tr>
 <td width="50%">
 
-### 🔹 ERODE HYDRALYKIS
-<img src="https://via.placeholder.com/500x260/0f0c29/00F0FF?text=Project+Screenshot" width="100%"/>
+### 🔹 Erode Hydraulics
+<img src="https://placehold.co/500x260/0f0c29/00F0FF?text=Project+Screenshot" width="100%"/>
 
-An AI-powered tool that analyzes resumes and gives smart improvement suggestions.
+Business website for a hydraulic products company, built with a Node.js/Express backend and a Three.js + GSAP 3D immersive experience.
 
-`Python` `FastAPI` `OpenAI` `React`
+`JavaScript` `Node.js` `Express` `Three.js` `GSAP`
 
-[![Live Demo](https://erodehydralykis.web.app/)](#)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](https://erodehydralykis.web.app/)
 [![Repository](https://img.shields.io/badge/Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </td>
 <td width="50%">
 
 ### 🔹 AI Legal Assistant
-<img src="https://via.placeholder.com/500x260/0f0c29/00F0FF?text=Project+Screenshot" width="100%"/>
+<img src="https://placehold.co/500x260/0f0c29/00F0FF?text=Project+Screenshot" width="100%"/>
 
-A RAG-powered legal document assistant for quick clause analysis.
+AI-powered legal research tool for Indian law that maps IPC/BNS sections, built on Next.js, n8n, and GPT-4o with a Supabase/pgvector backend.
 
-`LangChain` `Python` `Pinecone` `Next.js`
+`Next.js` `n8n` `OpenAI GPT-4o` `Supabase`
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](#)
 [![Repository](https://img.shields.io/badge/Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </td>
-</tr>
-
-<tr>
-<td width="50%">
-
-
-
 </tr>
 </table>
 
@@ -172,6 +169,7 @@ A RAG-powered legal document assistant for quick clause analysis.
 | ✅ | Open Source Contributions |
 | ✅ | Automation Workflows |
 
+</div>
 
 ---
 
@@ -181,9 +179,8 @@ A RAG-powered legal document assistant for quick clause analysis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamalesh-thirunavukkarasu-1150ab3b1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kamaleshthirurunavukkarasu23@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamaleshthirurunavukkarasu23@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i__am__kamalesh__?igsh=MTJ4cHhjcnZwZjh5Yw==)
-
 
 </div>
 
@@ -212,7 +209,6 @@ A RAG-powered legal document assistant for quick clause analysis.
 <div align="center">
 
 [![Buy Me a Tea](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](#)
-
 
 </div>
 
