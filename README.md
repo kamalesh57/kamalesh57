@@ -120,7 +120,7 @@ C            ██████████████████░░░░�
 <td width="50%">
 
 ### 🔹 Erode Hydraulics
-<img src="" width="100%"/>
+<img src="https://erodehydralykis.web.app/images/hero.png" width="100%"/>
 
 Business website for a hydraulic products company, built with a Node.js/Express backend and a Three.js + GSAP 3D immersive experience.
 
