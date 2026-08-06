@@ -103,7 +103,6 @@ I debug code faster with Tea ☕ in hand
      .github/workflows/snake.yml. It needs to run at least once (Actions tab →
      "Generate Snake" → Run workflow) before this image will render. -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/kamalesh57/kamalesh57/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
