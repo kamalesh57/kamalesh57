@@ -132,16 +132,6 @@ Business website for a hydraulic products company, built with a Node.js/Express 
 </td>
 <td width="50%">
 
-### 🔹 AI Legal Assistant
-<img src="https://placehold.co/500x260/0f0c29/00F0FF?text=Project+Screenshot" width="100%"/>
-
-AI-powered legal research tool for Indian law that maps IPC/BNS sections, built on Next.js, n8n, and GPT-4o with a Supabase/pgvector backend.
-
-`Next.js` `n8n` `OpenAI GPT-4o` `Supabase`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Add%20Link-lightgrey?style=for-the-badge&logo=vercel&logoColor=black)](#)
-[![Repository](https://img.shields.io/badge/Repository-Add%20Link-lightgrey?style=for-the-badge&logo=github&logoColor=white)](#)
-
 </td>
 </tr>
 </table>
