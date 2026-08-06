@@ -127,7 +127,7 @@ Business website for a hydraulic products company, built with a Node.js/Express 
 `JavaScript` `Node.js` `Express` `Three.js` `GSAP`
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](https://erodehydralykis.web.app/)
-[![Repository](https://img.shields.io/badge/Repository-Add%20Link-lightgrey?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Repository](https://github.com/kamalesh57/erode-hydrauliks.git)](#)
 
 </td>
 <td width="50%">
