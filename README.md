@@ -91,7 +91,6 @@ I debug code faster with Tea ☕ in hand
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kamalesh57&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=8A2BE2&text_color=c9d1d9&count_private=true" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=kamalesh57&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=8A2BE2&currStreakLabel=00F0FF" width="48%"/>
 </div>
 
@@ -99,11 +98,7 @@ I debug code faster with Tea ☕ in hand
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalesh57&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" width="48%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalesh57&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=8A2BE2&point=00F0FF" width="48%"/>
 </div>
-
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kamalesh57&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-</div>
-
 <!-- 🐍 Animated contribution snake — generated nightly by the GitHub Action in
      .github/workflows/snake.yml. It needs to run at least once (Actions tab →
      "Generate Snake" → Run workflow) before this image will render. -->
