@@ -96,7 +96,6 @@ I debug code faster with Tea ☕ in hand
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalesh57&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalesh57&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=8A2BE2&point=00F0FF" width="48%"/>
 </div>
 
 
@@ -121,7 +120,7 @@ C            ██████████████████░░░░�
 <td width="50%">
 
 ### 🔹 Erode Hydraulics
-<img src="https://placehold.co/500x260/0f0c29/00F0FF?text=Erode+Hydraulics" width="100%"/>
+<img src="" width="100%"/>
 
 Business website for a hydraulic products company, built with a Node.js/Express backend and a Three.js + GSAP 3D immersive experience.
 
