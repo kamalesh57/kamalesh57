@@ -184,7 +184,7 @@ A framework-agnostic, installable Python library for stateful agent workflows, c
 
 `Python` `Graph Algorithms` `AI Agents`
 
-<a href="https://github.com/kamalesh57/context-gc">
+<a href="https://github.com/athishio/context-gc.git">
   <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Context-GC repository" />
 </a>
 
