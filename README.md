@@ -10,18 +10,6 @@
 
 <br />
 
-<a href="https://github.com/kamalesh57">
-  <img src="https://img.shields.io/badge/GitHub-kamalesh57-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://leetcode.com/u/kamalesh-thirunavukkarasu-s/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-<a href="https://www.linkedin.com/in/kamalesh-thirunavukkarasu-1150ab3b1">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<br /><br />
-
 <img src="https://komarev.com/ghpvc/?username=kamalesh57&label=PROFILE%20VIEWS&color=00F0FF&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/kamalesh57?label=FOLLOWERS&style=flat-square&color=8A2BE2" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/kamalesh57?label=STARS&style=flat-square&color=00F0FF" alt="GitHub stars" />
@@ -60,7 +48,7 @@ I enjoy turning ideas into production-ready systems — from responsive web appl
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Currently Learn and Work On:
 
 ### Languages
 
@@ -172,11 +160,11 @@ A dedicated repository for algorithm and data-structure practice, focused on imp
 
 | Area | Focus | Status |
 |:---|:---|:---:|
-| AI Engineering | LLMs, RAG, Agents | 🟡 Active |
+| AI Engineering | LLMs, RAG, Agents | 🟡 Learning |
 | Automation | n8n, APIs, Event-driven workflows | 🟢 Building |
 | Full Stack | Frontend, Backend, Cloud | 🟢 Building |
 | Algorithms | Data Structures & Problem Solving | 🟡 Active |
-| Open Source | Libraries, tooling & documentation | 🟡 Active |
+| Open Source | Libraries, tooling & documentation | 🟡 Learning |
 | System Design | Scalable application architecture | 🟡 Learning |
 
 ---
