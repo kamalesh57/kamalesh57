@@ -104,8 +104,8 @@ I enjoy turning ideas into production-ready systems — from responsive web appl
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalesh57&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&cache_seconds=86400" width="42%" alt="Top programming languages" />
 </a>
 
-<a href="https://leetcode.com/u/kamalesh-thirunavukkarasu-s/">
-  <img src="https://leetcard.jacoblin.cool/kamalesh-thirunavukkarasu-s?theme=dark&font=Baloo%202&ext=heatmap&border=0&radius=12" width="56%" alt="Live LeetCode statistics" />
+<a href="https://leetcode.com/u/Kamalesh57/">
+  <img src="https://leetcard.jacoblin.cool/Kamalesh57?theme=dark&font=Baloo%202&ext=heatmap&border=0&radius=12" width="56%" alt="Live LeetCode statistics" />
 </a>
 
 </div>
@@ -148,7 +148,7 @@ A dedicated repository for algorithm and data-structure practice, focused on imp
 <a href="https://github.com/kamalesh57/leet-code">
   <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="LeetCode practice repository" />
 </a>
-<a href="https://leetcode.com/u/kamalesh-thirunavukkarasu-s/">
+<a href="https://leetcode.com/u/Kamalesh57/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
 </a>
 
