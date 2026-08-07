@@ -87,13 +87,10 @@ I enjoy turning ideas into production-ready systems — from responsive web appl
 
 ## 📊 Live Developer Analytics
 
-> Dynamic cards below are generated from public GitHub and LeetCode data. If an external stats service is temporarily rate-limited, the links above remain available as the source of truth.
 
 <div align="center">
 
-<a href="https://github.com/kamalesh57">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamalesh57&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=00F0FF&icon_color=8A2BE2&text_color=C9D1D9&cache_seconds=86400" width="49%" alt="GitHub statistics" />
-</a>
+
 
 <a href="https://streak-stats.demolab.com/?user=kamalesh57">
   <img src="https://streak-stats.demolab.com/?user=kamalesh57&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=8A2BE2&currStreakLabel=00F0FF" width="49%" alt="GitHub contribution streak" />
@@ -115,19 +112,6 @@ I enjoy turning ideas into production-ready systems — from responsive web appl
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamalesh57/kamalesh57/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamalesh57/kamalesh57/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/kamalesh57/kamalesh57/output/github-snake.svg" width="95%" alt="GitHub contribution snake animation" />
-</picture>
-
-</div>
-
----
 
 ## 🚀 Featured Project
 
