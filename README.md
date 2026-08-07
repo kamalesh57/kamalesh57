@@ -10,6 +10,18 @@
 
 <br />
 
+<a href="https://github.com/kamalesh57">
+  <img src="https://img.shields.io/badge/GitHub-kamalesh57-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://leetcode.com/u/kamalesh57/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="https://www.linkedin.com/in/kamalesh-thirunavukkarasu-1150ab3b1">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br /><br />
+
 <img src="https://komarev.com/ghpvc/?username=kamalesh57&label=PROFILE%20VIEWS&color=00F0FF&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/kamalesh57?label=FOLLOWERS&style=flat-square&color=8A2BE2" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/kamalesh57?label=STARS&style=flat-square&color=00F0FF" alt="GitHub stars" />
@@ -20,18 +32,20 @@
 
 ## 👋 About Me
 
-I'm **Kamalesh Thirunavukkarasu**, a developer focused on building practical software at the intersection of **full-stack engineering, artificial intelligence, automation, and developer tooling**.
+I'm **Kamalesh Thirunavukkarasu**, a developer focused on building practical full-stack software with an emphasis on clean architecture and polished, motion-driven interfaces.
 
-I enjoy turning ideas into production-ready systems — from responsive web applications and AI assistants to workflow automation and open-source developer tools.
+I enjoy turning ideas into production-ready systems — from responsive web applications to backend services — and I'm currently expanding into AI engineering and workflow automation.
 
 ### What I Work On
 
-- 🤖 **AI Engineering** — LLM applications, RAG, AI agents and intelligent assistants
-- ⚙️ **Automation** — n8n workflows, API integrations and event-driven systems
 - 🌐 **Full-Stack Development** — modern web applications and backend services
-- 🧩 **Developer Tools** — reusable libraries, APIs and engineering utilities
-- 🎨 **UI/UX** — polished interfaces, motion and product-focused experiences
+- 🎨 **UI/UX** — polished interfaces, motion (Three.js, GSAP) and product-focused experiences
 - 🧠 **Problem Solving** — algorithms, data structures and continuous LeetCode practice
+
+### Currently Learning
+
+- 🤖 **AI Engineering** — LLM applications, RAG, AI agents
+- ⚙️ **Automation** — n8n workflows, API integrations and event-driven systems
 
 ---
 
@@ -39,16 +53,17 @@ I enjoy turning ideas into production-ready systems — from responsive web appl
 
 <table align="center">
 <tr>
-<td align="center" width="25%"><b>🤖 AI</b><br/>LLM Engineering<br/>RAG<br/>AI Agents</td>
-<td align="center" width="25%"><b>⚡ Automation</b><br/>n8n<br/>API Workflows<br/>Integrations</td>
-<td align="center" width="25%"><b>🌐 Full Stack</b><br/>Frontend<br/>Backend<br/>Cloud</td>
-<td align="center" width="25%"><b>🧠 DSA</b><br/>LeetCode<br/>Algorithms<br/>Problem Solving</td>
+<td align="center" width="33%"><b>🌐 Full Stack</b><br/>Frontend<br/>Backend<br/>Cloud</td>
+<td align="center" width="33%"><b>🎨 UI/UX &amp; Motion</b><br/>Three.js<br/>GSAP<br/>Interactive Design</td>
+<td align="center" width="33%"><b>🧠 DSA</b><br/>LeetCode<br/>Algorithms<br/>Problem Solving</td>
 </tr>
 </table>
 
+<p align="center"><sub>🤖 Also learning: LLM Engineering, RAG, AI Agents · ⚡ n8n Automation &amp; API Workflows</sub></p>
+
 ---
 
-## 🛠️ Currently Learn and Work On:
+## 🛠️ Technology Stack
 
 ### Languages
 
@@ -75,10 +90,13 @@ I enjoy turning ideas into production-ready systems — from responsive web appl
 
 ## 📊 Live Developer Analytics
 
+> Dynamic cards below are generated from public GitHub and LeetCode data. If an external stats service is temporarily rate-limited, the links above remain available as the source of truth.
 
 <div align="center">
 
-
+<a href="https://github.com/kamalesh57">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamalesh57&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=00F0FF&icon_color=8A2BE2&text_color=C9D1D9&cache_seconds=86400" width="49%" alt="GitHub statistics" />
+</a>
 
 <a href="https://streak-stats.demolab.com/?user=kamalesh57">
   <img src="https://streak-stats.demolab.com/?user=kamalesh57&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=8A2BE2&currStreakLabel=00F0FF" width="49%" alt="GitHub contribution streak" />
@@ -88,15 +106,31 @@ I enjoy turning ideas into production-ready systems — from responsive web appl
 
 <div align="center">
 
+<a href="https://github.com/kamalesh57">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalesh57&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&cache_seconds=86400" width="42%" alt="Top programming languages" />
+</a>
 
-<a href="https://leetcode.com/u/Kamalesh57/">
-  <img src="https://leetcard.jacoblin.cool/Kamalesh57?theme=dark&font=Baloo%202&ext=heatmap&border=0&radius=12" width="66%" alt="Live LeetCode statistics" />
+<a href="https://leetcode.com/u/kamalesh57/">
+  <img src="https://leetcard.jacoblin.cool/kamalesh57?theme=dark&font=Baloo%202&ext=heatmap&border=0&radius=12" width="56%" alt="Live LeetCode statistics" />
 </a>
 
 </div>
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamalesh57/kamalesh57/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamalesh57/kamalesh57/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/kamalesh57/kamalesh57/output/github-snake.svg" width="95%" alt="GitHub contribution snake animation" />
+</picture>
+
+</div>
+
+---
 
 ## 🚀 Featured Project
 
@@ -133,8 +167,25 @@ A dedicated repository for algorithm and data-structure practice, focused on imp
 <a href="https://github.com/kamalesh57/leet-code">
   <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="LeetCode practice repository" />
 </a>
-<a href="https://leetcode.com/u/Kamalesh57/">
+<a href="https://leetcode.com/u/kamalesh57/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### Context-GC
+
+A framework-agnostic, installable Python library for stateful agent workflows, combining deterministic graph-based pruning with recoverable receipts. It models an agent's execution history as a directed multigraph to identify and remove obsolete steps, dead branches, and cycles — leaving lightweight, deterministic receipt stubs so pruned content stays fully recoverable on demand. Built collaboratively with teammates.
+
+**Stack**
+
+`Python` `Graph Algorithms` `AI Agents`
+
+<a href="https://github.com/kamalesh57/context-gc">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Context-GC repository" />
 </a>
 
 </td>
@@ -143,28 +194,14 @@ A dedicated repository for algorithm and data-structure practice, focused on imp
 
 ---
 
-## 📈 Engineering Principles
-
-```text
-01  Build for real users       → Solve a real problem before adding complexity
-02  Automate repetition        → Turn manual workflows into reliable systems
-03  Design for maintainability → Prefer clear architecture over clever code
-04  Measure what matters       → Use data to understand performance and progress
-05  Keep learning              → Explore new tools without losing fundamentals
-06  Ship and iterate            → Release, observe, improve, repeat
-```
-
----
-
 ## 🗺️ Learning Roadmap
 
 | Area | Focus | Status |
 |:---|:---|:---:|
-| AI Engineering | LLMs, RAG, Agents | 🟡 Learning |
-| Automation | n8n, APIs, Event-driven workflows | 🟢 Building |
 | Full Stack | Frontend, Backend, Cloud | 🟢 Building |
-| Algorithms | Data Structures & Problem Solving | 🟡 Active |
-| Open Source | Libraries, tooling & documentation | 🟡 Learning |
+| Algorithms | Data Structures & Problem Solving | 🟢 Building |
+| AI Engineering | LLMs, RAG, Agents | 🟡 Learning |
+| Automation | n8n, APIs, Event-driven workflows | 🟡 Learning |
 | System Design | Scalable application architecture | 🟡 Learning |
 
 ---
@@ -179,7 +216,7 @@ A dedicated repository for algorithm and data-structure practice, focused on imp
 <a href="https://www.linkedin.com/in/kamalesh-thirunavukkarasu-1150ab3b1">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://leetcode.com/u/kamalesh-thirunavukkarasu-s/">
+<a href="https://leetcode.com/u/kamalesh57/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 <a href="mailto:kamaleshthirurunavukkarasu23@gmail.com">
