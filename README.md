@@ -100,16 +100,9 @@ I enjoy turning ideas into production-ready systems — from responsive web appl
 
 <div align="center">
 
-<a href="https://github.com/kamalesh57">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalesh57&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&cache_seconds=86400"
-    width="42%"
-    alt="Top programming languages"
-  />
-</a>
 
 <a href="https://leetcode.com/u/Kamalesh57/">
-  <img src="https://leetcard.jacoblin.cool/Kamalesh57?theme=dark&font=Baloo%202&ext=heatmap&border=0&radius=12" width="56%" alt="Live LeetCode statistics" />
+  <img src="https://leetcard.jacoblin.cool/Kamalesh57?theme=dark&font=Baloo%202&ext=heatmap&border=0&radius=12" width="66%" alt="Live LeetCode statistics" />
 </a>
 
 </div>
